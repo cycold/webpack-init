@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+// 登录
+.login-page {
+  min-height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  // background-color: #F3F5F7;
+  background-color: #fbf9fe;
+}
+
+.login-nav-bar {
+  position: relative;
+  width: 100%;
+  min-height: 45px;
+}
+
+.vcodeimg.loaded + .loading-span { display: none !important;  }
